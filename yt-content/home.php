@@ -15,7 +15,7 @@ function page_content() // Main Content
 <div class="container-fluid pb-5 mt-5 mt-lg-0 pt-5 pt-lg-0">
 	<div class="container py-5">
 		<div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-			<h5 class="fw-bold text-primary text-uppercase">Home Page</h5>
+			<h5 class="fw-bold text-primary text-uppercase">My page</h5>
 			<h1 class="mb-0">Custom IT Solutions for Your Successful Business</h1>
 		</div>
 		<div class="row g-5">
